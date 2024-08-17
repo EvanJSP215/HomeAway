@@ -1,2 +1,2 @@
 # HomeAway
-Web Application designed to help incoming Immigrants to the US from Asia
+A Mobile/Web Application designed to help ease the moving process for new Chinese Immigrants coming to New York City, USA.
